@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.spec
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
