@@ -34,7 +34,8 @@ source .venv/bin/activate
 .venv\Scripts\Activate.ps1
 
 # 3. Installer les dépendances
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 > **Note :** `tkinter` est inclus dans la bibliotèque standard de Python.
 
