@@ -78,6 +78,7 @@ def play_series(folder_path, episode_index=None):
 
     if episode_index is not None:
         player.play_item_at_index(episode_index)
+        update_progress()
     else:
         player.play()
         update_progress()
